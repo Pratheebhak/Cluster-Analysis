@@ -1,11 +1,11 @@
 # Cluster-Analysis
 Cluster Analysis for Unsupervised Machine Learning Problems
 
-Clustering :
+*Clustering :* 
   Clustering is the process of grouping input data points into groups in a way that all
-points belonging to a particular cluster are similar to each other.
-  Clustering is an unsupervised machine learning algorithm.
-  In this project, K-Means Clustering is implemented.
+points belonging to a particular cluster are similar to each other.<br>
+  Clustering is an unsupervised machine learning algorithm.<br>
+  In this project, K-Means Clustering is implemented.<br>
   
 ## Software Dependencies:
 
