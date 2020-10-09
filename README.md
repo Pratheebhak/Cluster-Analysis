@@ -14,8 +14,7 @@ Install Microsoft vcpkg by follwing the instruction in this repository: <br>
 https://github.com/microsoft/vcpkg.git
 ```
 
-### i. [Matplotlib-cpp](https://github.com/lava/matplotlib-cpp.git):
-C++ Plotting library <br>
+### i. [Matplotlib-cpp](https://github.com/lava/matplotlib-cpp.git): C++ Plotting library   
 Dependencies:
   1. Python 3.8.3(32 bit)
   2. Numpy
@@ -26,8 +25,7 @@ Run the following command on the terminal to install the package:<br>
 vcpkg.exe install matplotlib-cpp
 ```
 
-### ii. [mlpack](https://github.com/mlpack/mlpack.git)
-A scalable C++ machine learning library.<br>
+### ii. [mlpack](https://github.com/mlpack/mlpack.git): A scalable C++ machine learning library   
 Dependencies:
   1. OpenBLAS
   2. Boost
